@@ -6,4 +6,4 @@
 
 ## Music management - Sensor
 
-[Ссылка на артиста Sensor](https://taplink.cc/sensor_music) я занимался сопровождением релизов (работа с кабинетами дистрибьюторов и кабинетов для артиста (Студио, BandLink, Spotify/Music for Artists), оформление мультиссылок на BandLink и таплинке, написание постов и оформление сайта
+[Ссылка на артиста Sensor](https://taplink.cc/sensor_music) я занимался сопровождением релизов (работа с кабинетами дистрибьюторов и кабинетов для артиста (Студио, BandLink, Spotify/Music for Artists), оформлением мультиссылок на BandLink, написанием постов и оформлением сайта TapLink
